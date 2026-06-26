@@ -11,7 +11,7 @@ I am a cybersecurity student passionate about technology and ethical hacking. I 
 - [ ] Apply Python scripts to cybersecurity tasks.
 
 ## 📚 Study Plan
-- **Daily Routine:** 3 hours of dedicated study.
+- **Daily Routine:** 6 hours of dedicated study (3 hours for Python, 3 hours for Linux).
 - **Resources:** Elzero Web School, Linux documentation, and hands-on labs.
 
 ## 📬 Connect with me
